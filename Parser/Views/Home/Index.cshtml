@@ -1,0 +1,12 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Добро пожаловать</h1>
+    <form action="/Home/FindArticles" method="post">
+        <label>Поиск статей по сайту Habr:</label><br />
+        <input type="text" name="search" /><br /><br />
+        <input type="submit" value="Загрузить" />
+    </form>
+</div>

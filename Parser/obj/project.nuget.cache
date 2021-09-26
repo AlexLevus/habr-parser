@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+Snxa/dmLY6gNvRyMW07ztKb5tS1efSnjcBYRKtWhLfUhVW3MWpvblc0n5GfIVGIeC65Qd8/7d+7nae7Bx7Lsw==",
+  "success": true,
+  "projectFilePath": "D:\\Проекты\\Parser\\Parser\\Parser\\Parser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\levis\\.nuget\\packages\\htmlagilitypack\\1.11.36\\htmlagilitypack.1.11.36.nupkg.sha512"
+  ],
+  "logs": []
+}
